@@ -1,6 +1,6 @@
 # PhoneBook
 
-Phonebook web application built with React and NodeJS.
+Phonebook web application built with Svelte, NodeJS and Express.
 
 ## Usage
 
